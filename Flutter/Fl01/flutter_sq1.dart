@@ -49,3 +49,7 @@ class PomodoroTimer {
         isWorking ? 'Work Time: $formattedTime' : 'Break Time: $formattedTime');
   }
 }
+
+// 새로운 언어로 알고리즘을 작성하려니
+// 손이 제대로 움직이지 않았습니다..
+// + 타이머 라이브러리를 처음 활용해보니 어떤식으로 활용할지가 관건이었던것 같습니다.
