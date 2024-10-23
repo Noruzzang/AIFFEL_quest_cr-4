@@ -22,12 +22,12 @@
 
 
 
-## 앱 와이어프레임 (사용 툴 : 0000)
+## 앱 와이어프레임 (사용 툴 : )
 ![KakaoTalk_20241022_155702489 (1)](https://github.com/user-attachments/assets/d74fcffc-5563-4e20-9bd6-adb6bf8ab97e)
 
 
 
-## 프로토타이핑 (사용 툴 : 0000)
+## 프로토타이핑 (사용 툴 : MarvelApp)
 ![everytime_missingSomething  (1)](https://github.com/user-attachments/assets/3fe26b39-d359-47c6-8ff8-dd0b95e6b479)
 
 
