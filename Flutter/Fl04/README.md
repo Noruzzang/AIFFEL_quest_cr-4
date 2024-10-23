@@ -39,6 +39,8 @@ main.dart - 메인 화면, 검색창, 게시판, 자유게시판,글쓰기, 게�
 
 
 ## 구현영상 
+https://github.com/user-attachments/assets/250348a4-5301-4ceb-a978-ff403ea9f86c
+
 
 
 
