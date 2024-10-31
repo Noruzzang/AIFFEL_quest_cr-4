@@ -40,7 +40,7 @@ class _PostDetailScreenState extends State<Posts> {
   Future<void> _generateAIResponse() async {
     final model = GenerativeModel(
       model: 'gemini-1.5-flash',
-      apiKey: 'AIzaSyCRl81h94xe_ZIeWfl5CnjqAxP2slyspXg',
+      apiKey: 'MyAPIKey',
       generationConfig: GenerationConfig(
         temperature: 0.4,
         topP: 0.95,
